@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&display=swap');
+* {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #000000;
+}
+
+
+/* HEADER */
+
+.iguana1 {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 300;
+    font-size: 50px;
+    padding: 10px 0;
+}
+
+
+/* DESC-SECTION */
+
+.desc-section {
+    width: 80%;
+    margin: 0 auto;
+    padding: 30px;
+    height: auto;
+}
+
+.desc-section_contenido {
+    display: inline-block;
+    color: #ffffff;
+    width: 50%;
+    font-weight: 300;
+    vertical-align: middle;
+    padding: 60px 30px 60px 60px;
+}
+
+.desc-section_imagen {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.iguana2 {
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+}
+
+
+/* ICONS-SECTION */
+
+h2 {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 40px;
+    text-align: center;
+    padding: 80px 0 50px 0;
+}
+
+.icons-section {
+    background-color: #1E1A13;
+    height: 400px;
+    text-align: center;
+    padding: 12px 0;
+}
+
+.icono {
+    color: #ffffff;
+    font-size: 60px;
+    display: inline-block;
+    margin: 20px;
+}
+
+h3 {
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 24px;
+    text-align: center;
+    display: inline;
+}
+
+
+/* GALERIA */
+
+.galeria {
+    width: auto;
+    height: 380px;
+    background-color: #000000;
+}
+
+.galeria_imagenes {
+    width: 25%;
+    height: 240px;
+    padding-top: 65px;
+    margin-left: 20px;
+    padding-left: 65px;
+}
+
+
+/* FOOTER */
+
+footer {
+    margin: 0 auto;
+    background-color: #1E1A13;
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 0 0 0;
+    font-weight: 300;
+    font-size: 20px;
+    height: 80px;
+}
+
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
